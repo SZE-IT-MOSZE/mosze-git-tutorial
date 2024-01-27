@@ -9,7 +9,7 @@ A következő feladatpontokat kell megoldani:
 2. Készítsen egy publikus repository-t, amelynek neve: "mosze-2023-teszt".
    1. Alternatívaként forkolható ez a repository is.
 3. Ebben a kiegészítő állományként feltöltött kódot (main.cpp) töltse fel git-es művelettel. Ez lehet az órán bemutatott vagy bármilyen hivatalos git parancs (https://git-scm.com/). Ne a webes felület "Add File" gombját használja! 
-4. Látható, hogy a main.c fájl, bár egyszerű, több helyen hibás. 
+4. Látható, hogy a [main.cpp](main.cpp) fájl, bár egyszerű, több helyen hibás. 
    1. Készítsen egy új munkaágat (branch), amiben első lépésként kommentezi a fellelt hibákat! Commitolja a változást, valamilyen üzenettel!
    2. Javítsa ki a hibákat és commitolja a változásokat.
    3. Vonja össze a munkaágat a főággal (master/main)
